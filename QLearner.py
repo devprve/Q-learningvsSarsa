@@ -1,5 +1,5 @@
 
-# Install the following
+# Installations
 !pip install gym==0.15.3
 !apt-get -y install python3-opengl
 !pip install pyopengl
